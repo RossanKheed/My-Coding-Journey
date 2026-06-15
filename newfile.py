@@ -16,5 +16,5 @@ else:
     print("Good attempt !. But not correct")
     
     
-name=input("WHATS YOUR NAME :")
-print("YOU GOT VISION " + name, + "AND I ADVICE YOU " + name, + "TO KEEP GRINDING 💯, CUZ ONE DAY YES")
+name = input("WHATS YOUR NAME :")
+print(f"YOU GOT VISION {name} AND I ADVICE YOU {name} TO KEEP GRINDING 💯, CUZ ONE DAY YES")
