@@ -11,6 +11,9 @@ while True:
         print ("Well, Matter is the anything that has mass or weight and occupies space. So examples of matter are like Books,Sun,Pond of water,person, etc")
     elif "photosynthesis" in question :
          print ("Actually, Photosynthesis is the process where green plants make their own foods through sunlight 🌞")
+    elif "laboratory" in question :
+        print("Laboratory is the room or building specially for performing experiments")
+      
     elif "atom" in question :
          print ("Atom is the smallest unit of a matter  ")
     elif "cell" in question :
