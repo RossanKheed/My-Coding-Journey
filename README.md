@@ -12,7 +12,8 @@ My-Coding-Journey 🚀
 
 ​ABOUT ME.
 
-​I am a 16-year-old student based in Zanzibar, Tanzania, currently preparing for my Advanced Level studies at Dkt. John P. Magufuli Secondary School. My goal is to leverage my programming skills and academic rigor to reach Berea College in Kentucky, USA, for the Fall 2029 intake.
+​I am a 16-year-old student based in Zanzibar, Tanzania,currently studying at Zanzibar school Advanced Level for PCM (Physics, Chemistry, Mathematics).
 ​Connect With Me
 ​GitHub: RossanKheed
+email: rossankheed@gmail.com 
 ​Focus: Building functional software, mastering high-level English, and preparing for national excellence.
